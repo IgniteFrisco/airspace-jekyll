@@ -14,8 +14,8 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Ignite Frisco
+subtitle: "A public speaking event."
 url: "http://ignitefrisco.github.io" # the base hostname & protocol for your site
 baseurl: "" # Set this value to "" if you want your site to be root
 cover: "/assets/cover.png"
@@ -29,8 +29,5 @@ markdown: kramdown
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: noah
+    desc: "Did all the stuff."
