@@ -3,10 +3,7 @@ layout: post
 title: Welcome to Frisco Ignite 2018!
 subtitle: We are organizing a learning-centric event this year!
 author: "Noah Keck"
-date: 2016-05-20 21:11:27
-tags:
-* Welcome
-* Ignite
+date: 2018-04-18 20:51:27
 ---
 
 # Hello!
@@ -19,7 +16,7 @@ The primary premise on which Ignite is built is to "Enlighten us, but make it qu
 
 Here is a video of Mark Cohen's presentation at Ignite Sydney:
 
-![[Banana Video]()](https://youtu.be/bON296SdRs8)
+[![Banana Video](https://raw.githubusercontent.com/IgniteFrisco/ignitefrisco.github.io/master/img/banana.PNG)](https://youtu.be/bON296SdRs8)
 
 ## So now you know, what next?
 Join us! We are hosting an Ignite event right here in Frisco, free and available to everyone! The event is uitable for K-12 and adults too!
