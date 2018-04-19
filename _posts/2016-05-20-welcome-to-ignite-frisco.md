@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Frisco Ignite 2018!
+title: Welcome to Ignite Frisco 2018!
 subtitle: We are organizing a learning-centric event this year!
 author: "Noah Keck"
 date: 2018-04-18 20:51:27
