@@ -1,3 +1,10 @@
+---
+layout: post
+title: Sponsor Information
+author: "Noah Keck"
+date: 2018-04-18 20:51:27
+---
+
 # Sponsor Information
 
 | Tiers    | Amount of Donation | Tee Shirts | Square Footage | Raffle Tickets | Preferred Space | Preferred Seating |
