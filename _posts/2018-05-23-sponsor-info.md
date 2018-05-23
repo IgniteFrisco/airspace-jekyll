@@ -5,7 +5,7 @@ author: "Noah Keck"
 date: 2018-05-23 17:21:32
 ---
 
-# Sponsor Information
+## Donation Tiers
 
 | Tiers    | Amount of Donation | Tee Shirts | Square Footage | Raffle Tickets | Preferred Space | Preferred Seating |
 |----------|--------------------|------------|----------------|----------------|-----------------|-------------------|
