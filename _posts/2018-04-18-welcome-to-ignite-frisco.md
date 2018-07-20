@@ -7,10 +7,10 @@ date: 2018-04-18 20:51:27
 ---
 
 # Hello!
-We are very excited to get Frisco IgniteEdited  up and running! We plan to host the Frisco Ignite STEAM Fair. Of course, you may not understand what that fully means quite yet. So continue reading to find out!
+We are very excited to get Frisco Ignite up and running! We plan to host the Frisco Ignite STEAM Fair. Of course, you may not understand what that fully means quite yet. So continue reading to find out!
 
 ## What Exactly is Ignite?
-The Frisco Ignite STEAM Fair is a force for raising the collective IQ and building connections in Frisco among small children and the surrounding communities. Ignite is about celebrating Frisco's growing arts and culture scene & helps to attract and retain the creative minds of children with its inclusive appeal.
+The Frisco Ignite STEAM Fair is a force for raising the collective IQ and building connections in Frisco among children and the surrounding communities. Ignite is about celebrating Frisco's growing arts and culture scene & helps to attract and retain the creative minds of children with its inclusive appeal.
 
 Ignite is a program that has existed for a few years around the world. Including [Sydney](http://www.ignitesydney.com/), [Baltimore](http://www.ignitebaltimore.com/), [Phoenix](https://www.ignitephoenix.com/), [Boulder](https://igniteboulder.com/), and many more. The first Ignite took place in Seattle in 2006, and since then the event has become an international phenomenon.
 
