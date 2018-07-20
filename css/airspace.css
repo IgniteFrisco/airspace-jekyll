@@ -8,7 +8,7 @@
 
 @import url(//fonts.googleapis.com/css?family=Josefin+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Josefin+Sans:400,100,300,500,700);
-@import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(//fonts.googleapis.com/css?family=Josefin+Sans:400italic);
 /* var text-decoration */
 /*--
 	Common Css
@@ -57,7 +57,7 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
+  font-family: 'JoseFin+Sans', serif;
   font-style: italic;
   color: #666;
 }
@@ -120,7 +120,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -130,7 +130,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
 }
@@ -385,14 +385,14 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #global-header .block h1 {
   font-weight: 100;
-  font-size: 45px;
+  font-size: 50px;
   letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
 }
 #global-header .block p {
-  font-size: 16px;
+  font-size: 24px;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: 3px;
@@ -631,7 +631,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-left: 90px;
 }
 #slider-contact .block h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -641,7 +641,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider-contact .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: 3px;
@@ -681,7 +681,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #47424C;
   border: none;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-size: 18px;
 }
 /*--
@@ -726,7 +726,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
 }
 #contact-box .block h2 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   font-weight: 300;
   color: #000;
   font-size: 28px;
