@@ -14,7 +14,7 @@
 	Common Css
 --*/
 body {
-  font-family: 'Joesfin+Sans', sans-serif;
+  font-family: 'Josefin+Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -258,7 +258,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #424242;
+  color: #314c73;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
