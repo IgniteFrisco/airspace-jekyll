@@ -14,7 +14,7 @@
 	Common Css
 --*/
 body {
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 h2 {
   font-size: 30px;
@@ -120,7 +120,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -130,7 +130,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
 }
@@ -631,7 +631,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-left: 90px;
 }
 #slider-contact .block h1 {
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -641,7 +641,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider-contact .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: 3px;
@@ -681,7 +681,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #47424C;
   border: none;
   color: #fff;
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 18px;
 }
 /*--
@@ -726,7 +726,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
 }
 #contact-box .block h2 {
-  font-family: 'Josefin+Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
   color: #000;
   font-size: 28px;
