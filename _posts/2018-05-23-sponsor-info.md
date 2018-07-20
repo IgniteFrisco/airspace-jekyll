@@ -7,9 +7,9 @@ date: 2018-05-23 17:21:32
 
 ## Donation Tiers
 
-|&emsp;Tiers   &emsp;|       Amount of Donation      |      Tee Shirts     |     Square Footage     |     Space    |    Seating    |
-|     :---:          |            :---:              |         :---:       |      :---:             |     :---:    |       :---:   |
-|&emsp;Bronze&emsp;  | $100 - 149                    | 2                   | 175                    | No           | No            |
-|&emsp;Silver&emsp;  | $150 - 249                    | 3                   | 250                    | No           | No            |
-|&emsp;Gold  &emsp;  | $250 - 399                    | 5                   | 300                    | Yes          | No            |
-|&emsp;Platinum&emsp;| $400+                         | 10                  | 400                    | Yes          | Yes           |
+|&emsp;Tiers   &emsp;| &emsp;Donation&emsp;   | &emsp;Tee Shirts&emsp; | &emsp;Square Footage&emsp;| &emsp;Space&emsp; |    Seating    |
+|       :---:        |         :---:          |         :---:          |            :---:          |       :---:       |     :---:     |
+|&emsp;Bronze&emsp;  | &emsp;$100 - 149&emsp; | &emsp; 2  &emsp;       | &emsp;175  &emsp;         | &emsp;No&emsp;    | No            |
+|&emsp;Silver&emsp;  | &emsp;$150 - 249&emsp; | &emsp;3  &emsp;        | &emsp;250  &emsp;         | &emsp;No&emsp;    | No            |
+|&emsp;Gold  &emsp;  | &emsp;$250 - 399&emsp; | &emsp;5  &emsp;        | &emsp;300  &emsp;         | &emsp;Yes&emsp;   | No            |
+|&emsp;Platinum&emsp;| &emsp;$400+ &emsp;     | &emsp;10 &emsp;        | &emsp;400  &emsp;         | &emsp;Yes&emsp;   | Yes           |
