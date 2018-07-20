@@ -59,7 +59,7 @@ a:active {
 .section-title p {
   font-family: 'JoseFin+Sans', serif;
   font-style: italic;
-  color: #666;
+  color: #515151;
 }
 /*--
 	Header Start
@@ -146,7 +146,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #515151;
   padding-top: 20px;
 }
 #intro .block img {
@@ -176,10 +176,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #515151;
 }
 #service .service-item p {
-  color: #888;
+  color: #515151;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -258,7 +258,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #314c73;
+  color: #515151;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
@@ -728,12 +728,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-box .block h2 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
-  color: #000;
+  color: #515151;
   font-size: 28px;
   padding-bottom: 30px;
 }
 #contact-box .block p {
-  color: #5C5C5C;
+  color: #515151;
   display: block;
 }
 /*--
