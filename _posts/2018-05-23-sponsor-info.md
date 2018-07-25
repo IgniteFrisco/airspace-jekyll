@@ -16,4 +16,4 @@ Below is some basic sponsor information you need to know. We have a multitude of
 |&emsp;Gold  &emsp;  | &emsp;$250 - 399&emsp;| &emsp;5  &emsp;       | &emsp;Yes&emsp;              | &emsp;No&emsp;               |
 |&emsp;Platinum&emsp;| &emsp;$400+ &emsp;    | &emsp;10 &emsp;       | &emsp;Yes&emsp;              | &emsp;Yes&emsp;              |
 
-*Preferred Space and Preferred Seating are described on the "Sponsor Us" Page
+***Preferred Space and Preferred Seating are described on the "Sponsor Us" Page**
