@@ -5,7 +5,7 @@ author: "Noah Keck"
 date: 2018-05-23 17:21:32
 ---
 
-Below is some basic sponsor information you need to know. We have a multitude of tiers for your organization to choose from and each one comes with a variety of options to choose from. For example, Preferred Space and Preferred Seating are offered only for Gold and Platinum statuses, respectively. We value your partnership in making this event a success!
+Below is some basic sponsor information you need to know. We have a multitude of tiers for your organization to choose from and each one comes with a variety of options. For example, Preferred Space and Preferred Seating are offered only for Gold and Platinum statuses, respectively, but there are many other categories. We value your partnership in making this event a success!
 
 ## Donation Tiers
 
