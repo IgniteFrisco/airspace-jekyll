@@ -17,3 +17,5 @@ Below is some basic sponsor information you need to know. We have a multitude of
 |&emsp;Platinum&emsp;| &emsp;$400+ &emsp;    | &emsp;10 &emsp;       | &emsp;Yes&emsp;              | &emsp;Yes&emsp;              |
 
 ***Preferred Space and Preferred Seating are described on the "Sponsor Us" Page**
+
+***UPDATE: We are currently in the process of discussing the event with Frisco Education Foundation. The sponsor information will be updated when the logistics are finalized.**
