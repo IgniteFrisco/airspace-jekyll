@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sponsor Information
-author: "Noah Keck"
+author: "Noah Keck & Harsha Kolachina"
 date: 2018-05-23 17:21:32
 ---
 
