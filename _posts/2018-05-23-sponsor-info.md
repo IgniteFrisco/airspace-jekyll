@@ -5,17 +5,8 @@ author: "Noah Keck & Harsha Kolachina"
 date: 2018-05-23 17:21:32
 ---
 
-Below is some basic sponsor information you need to know. We have a multitude of tiers for your organization to choose from and each one comes with a variety of options. For example, Preferred Space and Preferred Seating are offered only for Gold and Platinum statuses, respectively, but there are many other categories. We value your partnership in making this event a success!
+Below is some basic sponsor information you need to know. We have strong goals in mind, with the ambition of making an impact on the community of Frisco. We value your support in making this event a success!
 
-## Donation Tiers
+Please donate any items that you can for the success of the event. For example, if we require food, drinks, additional raffle prizes, or any equipment or materials for event day, providing us with those items will earn you special recognition at our event in front of a large audience, with a chance to book your own advertising space to reach out to parents and students.
 
-|&emsp;Tiers   &emsp;| &emsp;Donation&emsp;  | &emsp;Tee Shirts&emsp;| &emsp;Preferred Space*&emsp; |&emsp;Preferred Seating*&emsp;|
-|       :---:        |         :---:         |         :---:         |       :---:                  |        :---:                 |
-|&emsp;Bronze&emsp;  | &emsp;$100 - 149&emsp;| &emsp; 2  &emsp;      | &emsp;No&emsp;               | &emsp;No&emsp;               |
-|&emsp;Silver&emsp;  | &emsp;$150 - 249&emsp;| &emsp;3  &emsp;       | &emsp;No&emsp;               | &emsp;No&emsp;               |
-|&emsp;Gold  &emsp;  | &emsp;$250 - 399&emsp;| &emsp;5  &emsp;       | &emsp;Yes&emsp;              | &emsp;No&emsp;               |
-|&emsp;Platinum&emsp;| &emsp;$400+ &emsp;    | &emsp;10 &emsp;       | &emsp;Yes&emsp;              | &emsp;Yes&emsp;              |
-
-***Preferred Space and Preferred Seating are described on the "Sponsor Us" Page**
-
-***UPDATE: We are currently in the process of discussing the event with Frisco Education Foundation. The sponsor information will be updated when the logistics are finalized.**
+**More information will soon be provided on the "Sponsor Us" page, with an updated list of all items needed for the event, as well as the names of sponsors who have agreed to provide each required item.**
